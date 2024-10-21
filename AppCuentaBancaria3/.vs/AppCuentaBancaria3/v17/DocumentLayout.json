@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ProgamasHechos\\AppCuentasBancarias\\AppCuentaBancaria3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{051DE256-9833-4A0A-8BB1-E0F298205FEB}|AppCuentaBancaria3\\AppCuentaBancaria3.csproj|e:\\progamashechos\\appcuentasbancarias\\appcuentabancaria3\\appcuentabancaria3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051DE256-9833-4A0A-8BB1-E0F298205FEB}|AppCuentaBancaria3\\AppCuentaBancaria3.csproj|solutionrelative:appcuentabancaria3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051DE256-9833-4A0A-8BB1-E0F298205FEB}|AppCuentaBancaria3\\AppCuentaBancaria3.csproj|e:\\progamashechos\\appcuentasbancarias\\appcuentabancaria3\\appcuentabancaria3\\clases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051DE256-9833-4A0A-8BB1-E0F298205FEB}|AppCuentaBancaria3\\AppCuentaBancaria3.csproj|solutionrelative:appcuentabancaria3\\clases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Clases.cs",
+              "DocumentMoniker": "E:\\ProgamasHechos\\AppCuentasBancarias\\AppCuentaBancaria3\\AppCuentaBancaria3\\Clases.cs",
+              "RelativeDocumentMoniker": "AppCuentaBancaria3\\Clases.cs",
+              "ToolTip": "E:\\ProgamasHechos\\AppCuentasBancarias\\AppCuentaBancaria3\\AppCuentaBancaria3\\Clases.cs",
+              "RelativeToolTip": "AppCuentaBancaria3\\Clases.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T06:00:09.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\ProgamasHechos\\AppCuentasBancarias\\AppCuentaBancaria3\\AppCuentaBancaria3\\Program.cs",
+              "RelativeDocumentMoniker": "AppCuentaBancaria3\\Program.cs",
+              "ToolTip": "E:\\ProgamasHechos\\AppCuentasBancarias\\AppCuentaBancaria3\\AppCuentaBancaria3\\Program.cs",
+              "RelativeToolTip": "AppCuentaBancaria3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T05:59:45.319Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

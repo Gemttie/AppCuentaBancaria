@@ -1,0 +1,14 @@
+E:\ProgamasHechos\AppCuentasBancarias\AppCuentaBancaria2\AppCuentaBancaria2\bin\Debug\net8.0\AppCuentaBancaria2.exe
+E:\ProgamasHechos\AppCuentasBancarias\AppCuentaBancaria2\AppCuentaBancaria2\bin\Debug\net8.0\AppCuentaBancaria2.deps.json
+E:\ProgamasHechos\AppCuentasBancarias\AppCuentaBancaria2\AppCuentaBancaria2\bin\Debug\net8.0\AppCuentaBancaria2.runtimeconfig.json
+E:\ProgamasHechos\AppCuentasBancarias\AppCuentaBancaria2\AppCuentaBancaria2\bin\Debug\net8.0\AppCuentaBancaria2.dll
+E:\ProgamasHechos\AppCuentasBancarias\AppCuentaBancaria2\AppCuentaBancaria2\bin\Debug\net8.0\AppCuentaBancaria2.pdb
+E:\ProgamasHechos\AppCuentasBancarias\AppCuentaBancaria2\AppCuentaBancaria2\obj\Debug\net8.0\AppCuentaBancaria2.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProgamasHechos\AppCuentasBancarias\AppCuentaBancaria2\AppCuentaBancaria2\obj\Debug\net8.0\AppCuentaBancaria2.AssemblyInfoInputs.cache
+E:\ProgamasHechos\AppCuentasBancarias\AppCuentaBancaria2\AppCuentaBancaria2\obj\Debug\net8.0\AppCuentaBancaria2.AssemblyInfo.cs
+E:\ProgamasHechos\AppCuentasBancarias\AppCuentaBancaria2\AppCuentaBancaria2\obj\Debug\net8.0\AppCuentaBancaria2.csproj.CoreCompileInputs.cache
+E:\ProgamasHechos\AppCuentasBancarias\AppCuentaBancaria2\AppCuentaBancaria2\obj\Debug\net8.0\AppCuentaBancaria2.dll
+E:\ProgamasHechos\AppCuentasBancarias\AppCuentaBancaria2\AppCuentaBancaria2\obj\Debug\net8.0\refint\AppCuentaBancaria2.dll
+E:\ProgamasHechos\AppCuentasBancarias\AppCuentaBancaria2\AppCuentaBancaria2\obj\Debug\net8.0\AppCuentaBancaria2.pdb
+E:\ProgamasHechos\AppCuentasBancarias\AppCuentaBancaria2\AppCuentaBancaria2\obj\Debug\net8.0\AppCuentaBancaria2.genruntimeconfig.cache
+E:\ProgamasHechos\AppCuentasBancarias\AppCuentaBancaria2\AppCuentaBancaria2\obj\Debug\net8.0\ref\AppCuentaBancaria2.dll
